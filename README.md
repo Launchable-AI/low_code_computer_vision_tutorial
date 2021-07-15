@@ -5,7 +5,7 @@ image-processing application with Bubble.io and AWS Rekognition.  The code here
 is a lambda function that will take a base64 encoded image from Bubble (via API
 Gateway), and return the number of cats the Rekognition API detects.
 
-You can find the tutorial video on YouTube: [[https://www.youtube.com/watch?v=63XAZfruLJY]]
+You can find the tutorial video on YouTube: https://www.youtube.com/watch?v=63XAZfruLJY
 
 The rest of this README is an overview of what is covered in the tutorial video.
 
